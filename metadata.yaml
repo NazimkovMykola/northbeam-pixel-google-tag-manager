@@ -1,5 +1,5 @@
 homepage: "https://nazimkov.freecluster.eu/"
 versions:
   # Latest version
-  - sha: 00
+  - sha: 057bd948e4896813f0f81691928305fc5ef7a2ab
     changeNotes: Initial release
